@@ -37,9 +37,10 @@ ul {
 body{
   background-color: #121214;
   background-image: var(--bg);
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 #app {
