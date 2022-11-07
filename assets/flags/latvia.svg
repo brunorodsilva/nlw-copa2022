@@ -1,12 +1,20 @@
-<svg width="512" height="513" viewBox="0 0 512 513" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_105_1812)">
-<path d="M256 512.989C397.385 512.989 512 398.374 512 256.989C512 115.604 397.385 0.989258 256 0.989258C114.615 0.989258 0 115.604 0 256.989C0 398.374 114.615 512.989 256 512.989Z" fill="#F0F0F0"/>
-<path d="M256 0.989258C137.721 0.989258 38.195 81.2103 8.81897 190.206H503.182C473.805 81.2103 374.279 0.989258 256 0.989258Z" fill="#A2001D"/>
-<path d="M256 512.989C374.279 512.989 473.805 432.768 503.181 323.772H8.81897C38.195 432.767 137.721 512.989 256 512.989Z" fill="#A2001D"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
 <defs>
-<clipPath id="clip0_105_1812">
-<rect width="512" height="512" fill="white" transform="translate(0 0.989258)"/>
+<clipPath id="clip1">
+  <path d="M 0 0.0976562 L 50 0.0976562 L 50 50 L 0 50 Z M 0 0.0976562 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0.0976562 L 50 0.0976562 L 50 19 L 0 19 Z M 0 0.0976562 "/>
 </clipPath>
 </defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.117647%,94.117647%,94.117647%);fill-opacity:1;" d="M 25 50 C 38.808594 50 50 38.828125 50 25.046875 C 50 11.265625 38.808594 0.0976562 25 0.0976562 C 11.191406 0.0976562 0 11.265625 0 25.046875 C 0 38.828125 11.191406 50 25 50 Z M 25 50 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(63.529412%,0%,11.372549%);fill-opacity:1;" d="M 25 0.0976562 C 13.449219 0.0976562 3.730469 7.914062 0.859375 18.539062 L 49.140625 18.539062 C 46.269531 7.914062 36.550781 0.0976562 25 0.0976562 Z M 25 0.0976562 "/>
+</g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(63.529412%,0%,11.372549%);fill-opacity:1;" d="M 25 50 C 36.550781 50 46.269531 42.179688 49.140625 31.558594 L 0.859375 31.558594 C 3.730469 42.179688 13.449219 50 25 50 Z M 25 50 "/>
+</g>
 </svg>
