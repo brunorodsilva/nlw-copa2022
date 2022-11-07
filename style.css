@@ -7,7 +7,7 @@
 :root{
   --card-title-border-color: #746615;
   --card-color-primary: #f7dd43;
-  --card-bg-color: #1d1c19
+  --card-bg-color: #1d1c19;
   --bg: url(./assets/background/bg-yellow.svg);
 }
 
@@ -153,9 +153,4 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
   }
-}
-
-.calender-flags{
-  width: 50px;
-  height: 50px;
 }
