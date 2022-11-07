@@ -1,5 +1,5 @@
 function createGame(player1, hour, player2) {
-  return `
+    return `
         <li>
             <img src="./assets/flags/${player1}.svg"
             alt="Bandeira do ${player1}">
@@ -12,8 +12,8 @@ function createGame(player1, hour, player2) {
 
 let delay = -0.3
 function createCard(date, day, games) {
-  delay = delay + 0.3
-  return `
+    delay = delay + 0.3
+    return `
     <div class="card" style="animation-delay: ${delay}s">
         <h2>${date} <span>${day}</span></h2>
         <ul>
@@ -32,7 +32,7 @@ function selectColorBlue() {
 
 function selectColorYellow() {
     document.querySelector("body").className = ""
-    }
+}
 
     document.querySelector("#cards").innerHTML =
     createCard("20/11", "domingo", createGame("qatar", "16:00", "ecuador")) +
